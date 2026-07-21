@@ -1,4 +1,4 @@
-# The Omission of *ne* in Written French — analysis code
+# The Omission of *ne* in Written French 
 
 Code and derived data for the statistical report *The Omission of ne in Written French:
 Register, Sub-register, and Internal Conditioning in the FReND Corpus* (Nguyen Van Bach,
