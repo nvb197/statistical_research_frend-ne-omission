@@ -1,0 +1,12 @@
+# Le corpus n'est jamais versionne (licence CC BY-NC-SA + donnees sensibles)
+*.xml
+frend_negations_clean.csv
+cleaning_log.csv
+
+# Sorties regenerables
+resultats_phase*/
+figures/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
